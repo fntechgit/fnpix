@@ -1781,7 +1781,10 @@
     <Content Include="visual\images\overlay.png" />
     <Content Include="visual\instagram_1280.aspx" />
     <Content Include="visual\instagram_and_twitter_1280.aspx" />
+    <Content Include="visual\jquery.1.9.1.min.js" />
+    <Content Include="visual\jquery.easing.min.js" />
     <Content Include="visual\jquery.imagefit.js" />
+    <Content Include="visual\jquery.magicwall.min.js" />
     <Content Include="visual\js-image-slider.css" />
     <Content Include="visual\js-image-slider.js" />
     <Content Include="visual\js\crystalGallery.js" />
@@ -1791,6 +1794,7 @@
     <Content Include="visual\js\jquery.easing.min.js" />
     <Content Include="visual\js\jquery.mousewheel.min.js" />
     <Content Include="visual\loading.gif" />
+    <Content Include="visual\magicwall.min.css" />
     <Content Include="visual\master.aspx" />
     <Content Include="visual\mixed_twitter_and_instagram.aspx" />
     <Content Include="visual\PolaroidGallery\bg.jpg" />
