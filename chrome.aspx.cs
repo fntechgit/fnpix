@@ -41,7 +41,8 @@ namespace fnpix
         protected void display(object sender, EventArgs e)
         {
             // build the URL and redirect
-            string url = "http://fnpix.fntech.com/displays/" + ddl_effect.SelectedValue + "/" + ddl_event.SelectedValue + "/" + ddl_delay.SelectedValue;
+            //string url = "http://fnpix.fntech.com/displays/" + ddl_effect.SelectedValue + "/" + ddl_event.SelectedValue + "/" + ddl_delay.SelectedValue;
+            string url = "displays/" + ddl_effect.SelectedValue + "/" + ddl_event.SelectedValue + "/" + ddl_delay.SelectedValue; 
 
             Response.Redirect(url);
         }
